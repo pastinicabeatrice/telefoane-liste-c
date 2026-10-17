@@ -1,0 +1,4 @@
+3
+16 apple 6500
+8 huawei 3200
+32 samsung 4500
